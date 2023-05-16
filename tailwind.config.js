@@ -18,8 +18,8 @@ export default {
       'black': '#0d1117',
       'gray-dark': '#252E28',
       'white': '#EBEBEB',
-      'gray': '#8492a6',
-      'gray-light': '#d3dce6',
+      'gray': '#a7a9a6',
+      'gray-light': '#a4a4a4',
     },
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
