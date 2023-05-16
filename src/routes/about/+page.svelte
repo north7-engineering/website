@@ -1,1 +1,1 @@
-<h1>About</h1>
+<h1 class="regular-font text-black uppercase dark:text-white">About</h1>

@@ -10,9 +10,8 @@
   <div>
     <nav class="container px-6 py-8 mx-auto md:flex md:justify-between md:items-center">
       <div class="flex items-center justify-between">
-        <a href="https://flowbite.com/" class="flex items-center">
-          <img src="https://flowbite.com/docs/images/logo.svg" class="h-8 mr-3" alt="North7 Logo" />
-          <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">North7</span>
+        <a href="/" class="flex items-center">
+          <img src="/logo/white.svg" class="h-10 mr-3" alt="North7 Logo" />
         </a>
         <!-- Mobile menu button -->
         <div on:click={toggleNavbar} class="flex md:hidden dark:text-white">

@@ -1,1 +1,1 @@
-<h1>Contact</h1>
+<h1 class="regular-font text-black uppercase dark:text-white">Contact</h1>

@@ -1,1 +1,1 @@
-<h1>Services</h1>
+<h1 class="regular-font text-black uppercase dark:text-white">Services</h1>
