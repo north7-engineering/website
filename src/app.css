@@ -22,6 +22,10 @@ body {
   background-color: #0d1117;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
 .regular-font {
   font-family: 'QuanticoRegular', sans-serif;
 }
