@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'QuanticoRegular';
+  src: url('./fonts/Quantico/Quantico-Regular.ttf') format('truetype');
+  /* Add additional src statements for other font formats if needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'QuanticoBold';
+  src: url('./fonts/Quantico/Quantico-Bold.ttf') format('truetype');
+  /* Add additional src statements for other font formats if needed */
+  font-weight: bold;
+  font-style: italic;
+}
+
+body {
+  background-color: #181818;
+}
+
+.regular-font {
+  font-family: 'QuanticoRegular', sans-serif;
+}
+
+.bold-font {
+  font-family: 'QuanticoBold', sans-serif;
+}
