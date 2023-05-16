@@ -34,7 +34,6 @@
           : 'hidden'}"
       >
         <a class="regular-font text-gray-800 hover:text-blue-400 dark:hover:text-green dark:text-white" href="/">Home</a>
-        <a class="regular-font text-gray-800 hover:text-blue-400 dark:hover:text-green dark:text-white" href="/services">Services</a>
         <a class="regular-font text-gray-800 hover:text-blue-400 dark:hover:text-green dark:text-white" href="/contact">Contact</a>
         <a class="regular-font text-gray-800 hover:text-blue-400 dark:hover:text-green dark:text-white" href="/about">About</a>
       </div>
