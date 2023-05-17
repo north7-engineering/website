@@ -27,6 +27,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@vercel/analytics": "^1.0.1",
 		"css.gg": "^2.0.0"
 	}
 }
