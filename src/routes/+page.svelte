@@ -8,7 +8,7 @@
 
 <h1 class="regular-font text-black uppercase dark:text-white">Reliable and highly performant software solutions.</h1>
 <p class="mt-6 text-lg regular-font text-black dark:text-gray max-w-4xl">
-  We engineer specialized, full-stack solutions empowered by state-of-the-art technologies.
+  We engineer specialized solutions empowered by state-of-the-art technologies.
   Our reliable and highly performant software enables unparalleled performance and addresses your unique business needs with precision and efficiency.
   Trust us to deliver top-notch solutions that propel your organization forward.
 </p>

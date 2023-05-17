@@ -6,23 +6,18 @@
                   <img src="/logo/white.svg" class="h-10 mr-3" alt="North7 Logo" />
               </a>
           </div>
-          <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
-              <div>
-                  <h2 class="regular-font mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-green">Resources</h2>
-                  <ul class="text-gray-600 dark:text-gray-400 font-medium">
-                      <li class="mb-4">
-                          <a href="https://flowbite.com/" class="regular-font hover:underline dark:hover:text-green dark:text-white">North7</a>
-                      </li>
-                      <li>
-                          <a href="https://tailwindcss.com/" class="regular-font hover:underline dark:hover:text-green dark:text-white">Tailwind CSS</a>
-                      </li>
-                  </ul>
-              </div>
+          <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-2">
               <div>
                   <h2 class="regular-font mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-green">Follow us</h2>
                   <ul class="text-gray-600 dark:text-gray-400 font-medium">
                       <li class="mb-4">
-                          <a href="https://github.com/themesberg/flowbite" class="regular-font hover:underline dark:hover:text-green dark:text-white">Github</a>
+                          <a href="https://github.com/north7-engineering" class="regular-font hover:underline dark:hover:text-green dark:text-white">GitHub</a>
+                      </li>
+                      <li class="mb-4">
+                          <a href="https://twitter.com/north7dev" class="regular-font hover:underline dark:hover:text-green dark:text-white">Twitter</a>
+                      </li>
+                      <li>
+                          <a href="https://instagram.com/north7" class="regular-font hover:underline dark:hover:text-green dark:text-white">Instagram</a>
                       </li>
                   </ul>
               </div>
@@ -30,10 +25,13 @@
                   <h2 class="regular-font mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-green">Legal</h2>
                   <ul class="text-gray-600 dark:text-gray-400 font-medium">
                       <li class="mb-4">
-                          <a href="#" class="regular-font hover:underline dark:hover:text-green dark:text-white">Privacy Policy</a>
+                          <a href="/privacy-policy" class="regular-font hover:underline dark:hover:text-green dark:text-white">Privacy Policy</a>
+                      </li>
+                      <li class="mb-4">
+                          <a href="/terms-conditions" class="regular-font hover:underline dark:hover:text-green dark:text-white">Terms &amp; Conditions</a>
                       </li>
                       <li>
-                          <a href="#" class="regular-font hover:underline dark:hover:text-green dark:text-white">Terms &amp; Conditions</a>
+                          <a href="/cookies" class="regular-font hover:underline dark:hover:text-green dark:text-white">Cookies</a>
                       </li>
                   </ul>
               </div>
