@@ -8,7 +8,7 @@
 
 <h1 class="regular-font text-black uppercase dark:text-white">About</h1>
 
-<p class="regular-font text-black dark:text-white mt-5">
+<p class="mt-6 text-lg regular-font text-black dark:text-gray max-w-4xl">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices.
   Non tellus orci ac auctor augue mauris augue neque. Potenti nullam ac tortor vitae purus. Velit scelerisque in dictum non.
