@@ -3,7 +3,8 @@
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
               <a href="/" class="flex items-center">
-                  <img src="/logo/white.svg" class="h-10 mr-3" alt="North7 Logo" />
+                  <img src="/logo/black.svg" class="h-10 mr-3 block dark:hidden" alt="North7 Logo" />
+                  <img src="/logo/white.svg" class="h-10 mr-3 hidden dark:block" alt="North7 Logo" />
               </a>
           </div>
           <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-2">
@@ -15,9 +16,6 @@
                       </li>
                       <li class="mb-4">
                           <a href="https://twitter.com/north7dev" class="regular-font hover:underline dark:hover:text-green dark:text-white">Twitter</a>
-                      </li>
-                      <li>
-                          <a href="https://instagram.com/north7" class="regular-font hover:underline dark:hover:text-green dark:text-white">Instagram</a>
                       </li>
                   </ul>
               </div>
@@ -54,3 +52,4 @@
       </div>
     </div>
 </footer>
+

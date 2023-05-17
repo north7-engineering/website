@@ -11,7 +11,8 @@
     <nav class="container px-6 py-8 mx-auto md:flex md:justify-between md:items-center">
       <div class="flex items-center justify-between">
         <a href="/" class="flex items-center">
-          <img src="/logo/white.svg" class="h-10 mr-3" alt="North7 Logo" />
+          <img src="/logo/black.svg" class="h-10 mr-3 block dark:hidden" alt="North7 Logo" />
+          <img src="/logo/white.svg" class="h-10 mr-3 hidden dark:block" alt="North7 Logo" />
         </a>
         <!-- Mobile menu button -->
         <div on:click={toggleNavbar} class="flex md:hidden dark:text-white">
