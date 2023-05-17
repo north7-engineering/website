@@ -22,12 +22,6 @@
               <div>
                   <h2 class="regular-font mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-green">Legal</h2>
                   <ul class="text-gray-600 dark:text-gray-400 font-medium">
-                      <li class="mb-4">
-                          <a href="/privacy-policy" class="regular-font hover:underline dark:hover:text-green dark:text-white">Privacy Policy</a>
-                      </li>
-                      <li class="mb-4">
-                          <a href="/terms-conditions" class="regular-font hover:underline dark:hover:text-green dark:text-white">Terms &amp; Conditions</a>
-                      </li>
                       <li>
                           <a href="/cookies" class="regular-font hover:underline dark:hover:text-green dark:text-white">Cookies</a>
                       </li>
